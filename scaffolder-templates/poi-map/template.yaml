@@ -44,7 +44,7 @@ spec:
           title: Cluster Id
           type: string
           description: Id of the cluster
-          default: .apps.cluster-mh5sz.mh5sz.sandbox3033.opentlc.com
+          default: .apps.summit23.0x74.p1.openshiftapps.com
         namespace: 
           title: Namespace
           type: string
