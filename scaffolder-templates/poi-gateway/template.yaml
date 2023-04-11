@@ -45,7 +45,7 @@ spec:
           title: Cluster Id
           type: string
           description: Id of the cluster
-          default: .apps.cluster-phrfq.phrfq.sandbox977.opentlc.com
+          default: .apps.cluster-w9h5r.w9h5r.sandbox508.opentlc.com
         namespace: 
           title: Namespace
           type: string
